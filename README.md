@@ -15,3 +15,9 @@ required item are listed in BOM through which you can also check the prices of e
 
 #Frimware:
 the frimware is written using c language file name is mouse_frimware.h
+step to flash frimware :
+Hold BOOTSEL button
+Plug into PC
+It shows as a USB drive
+Compile your code → get .uf2 file
+Drag & drop .uf2 into Pico
