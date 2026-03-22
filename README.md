@@ -21,3 +21,5 @@ Plug into PC
 It shows as a USB drive
 Compile your code → get .uf2 file
 Drag & drop .uf2 into Pico
+
+i made this project i was in need of good mouse and i will learn too so why to use my project you can get pcb and 3d print all stl and flash the frimware and use the usb to male connector to use it to your computer.
